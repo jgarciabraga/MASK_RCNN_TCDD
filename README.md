@@ -13,4 +13,10 @@ You can use this to delineate tree crowns in other regions or to detect some tre
 
 Here you find the trained weights of my Mask R-CNN and an example present in the article.
 
+Download the images with examples need to create the synthetic images
+https://www.dropbox.com/s/0l6zg4exnqqbfnb/santagenebra_examples.tif?dl=0
+
+Download the weihts file to test the Mask R-CNN for tree crwon detetection and delineation
+https://www.dropbox.com/s/bos9saqflmn9uz5/trees.h5?dl=0
+
 Go ahead and try.
