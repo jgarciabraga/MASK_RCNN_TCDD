@@ -19,17 +19,12 @@ https://www.dropbox.com/s/0l6zg4exnqqbfnb/santagenebra_examples.tif?dl=0
 Download the weights file to test the Mask R-CNN for tree crwon detetection and delineation
 https://www.dropbox.com/s/bos9saqflmn9uz5/trees.h5?dl=0
 
-Lines for change the path for your computer
-trees.py
-    line 18
+Lines for change the path for your computer:
 
-forest.py
-    between lines 847 - 857
+trees.py line 18.
 
-mergeshapefiles.py
-    line 11
+forest.py between lines 847 - 857.
+
+mergeshapefiles.py line 11.
     
-
-
-
 Go ahead and try.
