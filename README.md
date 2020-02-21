@@ -29,6 +29,6 @@ mergeshapefiles.py line 11.
 
 After using the mergeshapefiles.py a file called response.shp will be created. You can see that the trees near of edge with other image can be splited in two parts. The to join the splited trees in one, you must use the polygonUnionUsingLines.R. This file is specific for a grid with 128*128 pixels, if in your computer you can run wiht bigger grid this code will not work. But you can get the idea from it R file and change for you.
 
-In the polygonUnionUsingLines.R change the path in the lines 14, 15, 16 for the path in your computer
+In the polygonUnionUsingLines.R change the path in the lines 14, 15, 16 and 173 for the path in your computer
     
 Go ahead and try.
