@@ -1,6 +1,10 @@
 # MASK_RCNN_TCDD
 In this project I am using the Mask R-CNN (https://github.com/matterport/Mask_RCNN) to perform Tree Crown Detection and Delineation (TCDD) in a tropical forest region.
 
+Some tips
+
+Install anaconda and create an enviroment, and in the enviroment
+
 First, install all dependencies follwing the instructions in the web page https://github.com/matterport/Mask_RCNN.
 
 Install the GDAL
