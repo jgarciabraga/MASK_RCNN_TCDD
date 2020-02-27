@@ -37,7 +37,7 @@ python trees.py train --weights=path\to\weights --dataset=path\to\dataset --trai
 
 To test:
 
-python trees.py test --weights=path\to\weights --dataset=8 --test_images=9
+python trees.py test --weights=path\to\weights --dataset=path\to\dataset --test_images=9
 
 After using the mergeshapefiles.py a file called response.shp will be created. You can see that the trees near of edge with other image can be splited in two parts. The to join the splited trees in one, you must use the polygonUnionUsingLines.R. This file is specific for a grid with 128*128 pixels, if in your computer you can run wiht bigger grid this code will not work. But you can get the idea from it R file and change for you.
 
